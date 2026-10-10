@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi!  
+Hi!
 
-I'm Kate, a visual designer in New York City.
+I'm Kate, a visual designer based in New York City.
 
-I led visual direction, product photography, and packaging design for consumer brands like Rokinon, Coleman, Minolta and Biovanta. Previously, I've crafted e-commerce campaigns and product launch identities that elevate brand presence across major retail platforms.
+I previously led visual direction, product photography, and packaging design for consumer brands like Rokinon, Coleman, Minolta, and Biovanta, while crafting e-commerce campaigns and product launch identities.
 
-I'm fascinated by high-impact, detail-driven design systems and have worked on industry-leading packaging and digital campaigns reaching wide audiences. I specialize in driving visual cohesion, crafting enhanced content, and automating creative pipelines using modern tech workflows.
+I'm fascinated by high-impact, detail-driven design systems and have contributed to industry-leading packaging and digital campaigns reaching wide audiences. I love exploring new mediums to expand my design work—whether that's diving into animation or implementing AI scripting to streamline production workflows and solve operational bottlenecks.
 
-Outside of work, I'm deeply interested in building interactive design and exploring new creative technologies. I love spending time with my cats– Munchkin and Pookie, baking cinnamon rolls, and painting. 
+Outside of work, I'm deeply interested in building interactive design and exploring new creative technologies. I love spending time with my cats—Munchkin and Pookie—baking cinnamon rolls, and painting.
 
 Let's connect!
