@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi! 👋
 
 <!--
 **k8b4ll/k8b4ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there!  
+<br>
+I'm Kate, a visual designer in New York City.
+<br>
+I led visual direction, product photography, and packaging design for consumer brands like Rokinon, Coleman, Minolta and Biovanta. Previously, I've crafted e-commerce campaigns and product launch identities that elevate brand presence across major retail platforms.
+<br>
+I'm fascinated by high-impact, detail-driven design systems and have worked on industry-leading packaging and digital campaigns reaching wide audiences. I specialize in driving visual cohesion, crafting enhanced content, and automating creative pipelines using modern tech workflows.
+<br>
+Outside of work, I'm deeply interested in building interactive design and exploring new creative technologies. I love spending time with my cats– Munchkin and Pookie, baking cinnamon rolls, and painting. 
+<br>
+Let's connect!
