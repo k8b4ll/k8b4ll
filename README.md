@@ -18,7 +18,7 @@ Hi!
 
 I'm Kate, a visual designer based in New York City.
 
-I previously led visual direction, product photography, and packaging design for consumer brands like Rokinon, Coleman, Minolta, and Biovanta, while crafting e-commerce campaigns and product launch identities.
+I previously led visual direction, product photography, and packaging design for consumer brands like Rokinon, Coleman, Minolta, and Biovanta, crafting e-commerce campaigns and product launch identities.
 
 I'm fascinated by high-impact, detail-driven design systems and have contributed to industry-leading packaging and digital campaigns reaching wide audiences. I love exploring new mediums to expand my design work—whether that's diving into animation or implementing AI scripting to streamline production workflows and solve operational bottlenecks.
 
