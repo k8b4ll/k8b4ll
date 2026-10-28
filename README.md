@@ -22,6 +22,6 @@ I previously led visual direction, product photography, and packaging design for
 
 I'm fascinated by high-impact, detail-driven design systems and have contributed to industry-leading packaging and digital campaigns reaching wide audiences. I love exploring new mediums to expand my design work—whether that's diving into animation or implementing AI scripting to streamline production workflows and solve operational bottlenecks.
 
-Outside of work, I'm deeply interested in building interactive design and exploring new creative technologies. I love reading, baking cinnamon rolls, and learning to code.
+Outside of work, I'm passionate about creating things that help people connect. Deeply inspired by artisan practices, I love finding ways to intertwine traditional crafts with the digital world. You can usually find me reading, baking cinnamon rolls from scratch, or learning to code.
 
 Let's connect!
